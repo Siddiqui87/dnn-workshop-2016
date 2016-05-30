@@ -11,4 +11,5 @@
    * [Tianyi Demo](http://chaotianyi.github.io/initiumlab.com/)
    *    * [Mena WANG] (http://github.com/menawang)
       * Demo Blog: http://menawang.github.io/fancy-blog/
+  * [Siddiqui87 Demo](http://siddiqui87.github.io/Sid//)
 
